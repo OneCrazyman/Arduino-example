@@ -1,3 +1,4 @@
+//LED 랜덤색 점등
 #define R 11
 #define G 10
 #define B 9
